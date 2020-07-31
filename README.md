@@ -1,0 +1,2 @@
+# LECTARC
+Video meeting clone
