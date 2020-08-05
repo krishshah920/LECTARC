@@ -1,5 +1,5 @@
 const socket = io('/')
-const videogrid = document.getElementById('video-grid')
+const videoGrid = document.getElementById('video-grid')
 const myPeer = new Peer(undefined, {
   host: '/',
   port: '3001'
